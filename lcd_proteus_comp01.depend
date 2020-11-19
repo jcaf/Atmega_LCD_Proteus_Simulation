@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1605746922 source:/home/jcaf/Documents/lcd_proteus_comp01/fuse.c
+	<avr/io.h>
+
+1605802262 source:/home/jcaf/Documents/lcd_proteus_comp01/main.c
+	<avr/io.h>
+	"lcdan/lcdan.h"
+	"lcdan/lcdan_aux.h"
+
+1554914557 /home/jcaf/Documents/lcd_proteus_comp01/lcdan/lcdan.h
+
+1554773256 source:/home/jcaf/Documents/lcd_proteus_comp01/lcdan/lcdan_aux.c
+	<avr/io.h>
+	<stdint.h>
+	"../system.h"
+	"lcdan.h"
+	"lcdan_aux.h"
+	<avr/pgmspace.h>
+
+1605803385 /home/jcaf/Documents/lcd_proteus_comp01/system.h
+	<xc.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/pgmspace.h>
+	<avr/eeprom.h>
+	<util/delay.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+
+1556735372 /home/jcaf/Documents/lcd_proteus_comp01/lcdan/lcdan_aux.h
+	"lcdan.h"
+
